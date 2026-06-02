@@ -1,16 +1,45 @@
-# React + Vite
+# Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Employee Management System built using React, Context API, Tailwind CSS and Local Storage.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Admin Login
+- Employee Login
+- Task Assignment
+- Task Tracking
+- Task Status Management
+- Role Based Dashboard
+- Context API State Management
+- Local Storage Persistence
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Context API
+- Tailwind CSS
+- JavaScript
+- Vite
 
-## Expanding the ESLint configuration
+## Demo Credentials
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Admin
+Email: admin@gmail.com
+
+Password: 123
+
+### Employee
+Email: employee1@gmail.com
+
+Password: 123
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Author
+
+Ayush Kumar Roy
